@@ -1,0 +1,29 @@
+.uppserSide{
+    border: 1px solid rgb(100, 100, 100);
+    border-top: none;
+    border-left: none;
+    margin: 0%;
+    height: 65vh;
+}
+
+.upperside-btn{
+    margin: auto;
+    width: 80%;
+    padding: 10px 0px;
+    background : linear-gradient(120deg ,rgb(153, 43, 226) , rgb(67, 67, 250));
+    font-size: large;
+    border: none;
+    border-radius: 7px;
+    margin-bottom: 3rem;
+}
+
+.upperside-questions{
+    margin: auto;
+    width: 80%;
+    padding: 10px 0px;
+    background : transparent;
+    color: white;
+    border: 1px solid white;
+    border-radius: 7px;
+    margin-bottom: 1rem;
+}
